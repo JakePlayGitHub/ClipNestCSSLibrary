@@ -1,0 +1,12 @@
+.default-btn {
+  padding: 5px 7px;
+  border-radius: 7px;
+  border: none;
+  color: white;
+  background-color: #838383 ;
+}
+
+.default-btn.blue {
+  color: white;
+  background-color: #3776ff;
+}
